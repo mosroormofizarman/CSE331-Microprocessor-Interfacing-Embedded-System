@@ -11,14 +11,9 @@ This repository is dedicated to organizing and documenting all materials, resour
 
 This repository is organized into the following folders:
 
-- **lecture_notes/** — Compiled lecture notes and chapter summaries.
-- **textbook_materials/** — Textbook resources and reference materials.
-- **info/** — Course info: syllabus, schedule, instructor details, and administrative documents.
-- **lab_materials/** — Laboratory experiments, manuals, and resources.
-- **assembly_code/** — ARM Cortex M and RISC-V assembly language examples.
-- **assignments/** — Assignment questions and solutions.
-- **quizzes/** — Quiz questions and study materials.
-- **resources/** — Additional readings, datasheets, and reference materials.
+- **info/** — course syllabus, schedule, instructor details, and administrative documents.  
+- **slides/** — lecture slides and presentation files.  
+- **resources/** — supplementary readings, datasheets, reference materials.  
 
 ---
 
